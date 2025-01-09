@@ -1,1 +1,4 @@
 node_modules/
+
+# npm ignore
+package-lock.json
